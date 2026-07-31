@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+title: sde_analysis
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Pablo
+    family-names: Ortiz Badenes
+repository-code: 'https://github.com/Pablo-RTZ/sde_analysis'
+abstract: >-
+  A from first principles derivation for the GBM SDE solution and its discretization.
+license: GPL-3.0-or-later

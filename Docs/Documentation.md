@@ -54,6 +54,7 @@ S_{t+\Delta t}\approx S_t + \mu S_t\Delta t + \sigma S_t \Delta W_t
 $$
 
 Finally, due to the Brownian process $W_t$ being, by definition, independent, it follows that
+
 $$
 \Delta W_t=W_{t+\Delta t}-W_t\sim N(0,\Delta t) = \sqrt{\Delta t} \cdot N(0,1)
 $$
